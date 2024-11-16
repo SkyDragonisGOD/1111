@@ -2,15 +2,15 @@
 .dall{
     width: 600px;
     margin:auto;
-    background-color: #abcedf;
+    background-color: #ff0000;
 }
 #logo{
     width: 100%;
     height:80px;
-    font-family:"楷体";
+    font-family:"黑体";
     font-size: 40px;
     text-align: center;
-    color:#fff;
+    color:#000000;
     line-height: 80px;
     background color:#fff;
 }
@@ -19,7 +19,7 @@
     height: 50px;
     font-size:26px;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 }
 #left{
     width: 200px;
@@ -35,7 +35,7 @@
     width: 100%;
     height:40px;
     font-size:16px;
-    color:#fff;
+    color:#8cff00;
     clear:both;
     text align: center;
 }
